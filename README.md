@@ -4,10 +4,10 @@ Este projeto em JavaScript calcula e exibe as médias válidas das notas de um g
 
 
 ## 📚 Índice
-- [Descrição](#descrição)
-- [Estrutura](#estrutura-do-código)
-- [Conceitos](#conceitos-utilizados)
-- [Como Executar](#como-executar)
+- [Descrição](#-Descrição)
+- [Estrutura](#-Estrutura-do-código)
+- [Conceitos](#-Conceitos-Utilizados)
+- [Executar](#-Como-Executar)
 
 ## 📋 Descrição
 
